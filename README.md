@@ -1,3 +1,9 @@
+[![Library System Tests](https://github.com/RishitLaddha/session24/actions/workflows/test_library.yml/badge.svg)](https://github.com/RishitLaddha/session24/actions/workflows/test_library.yml)
+
+![Uploading Screenshot 2025-02-19 at 10.49.07.png…]()
+
+
+
 # Library Management System
 
 The Library Management System is designed to provide a robust and intuitive solution for managing a library’s collection of books and its membership structure. The project required the creation of a system that incorporates enumerations and custom exception handling to streamline common operations in a library, such as borrowing and returning books, as well as managing different membership levels. This document details what was expected from the assignment, what has been implemented, and how the solution meets these expectations.
